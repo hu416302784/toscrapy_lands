@@ -1,0 +1,2 @@
+进入文件夹 .\toscrapy_land\toscrapy_land\spiders
+运行命令：toscrapy_land\toscrapy_land\spiders>scrapy crawl lands -o export_data/lands/%(time)s.csv

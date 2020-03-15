@@ -1,0 +1,20 @@
+[
+{
+	"proxy_scheme": "http",
+	"proxy": "http://106.13.186.149:8090"
+},{
+	"proxy_scheme": "https",
+	"proxy": "https://106.13.186.149:8090"
+},{
+	"proxy_scheme": "http",
+	"proxy": "http://47.105.187.15:8090"
+},{
+	"proxy_scheme": "https",
+	"proxy": "https://47.105.187.15:8090"
+},{
+	"proxy_scheme": "http",
+	"proxy": "http://127.0.0.1:8090"
+},{
+	"proxy_scheme": "https",
+	"proxy": "https://127.0.0.1:8090"
+}]
